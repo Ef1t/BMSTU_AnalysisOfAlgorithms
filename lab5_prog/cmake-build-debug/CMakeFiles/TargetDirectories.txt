@@ -1,0 +1,3 @@
+/home/ef1t/Desktop/Programming/5_semestr/Analysis_of_Algorithms/lab_05/lab5/lab5_prog/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ef1t/Desktop/Programming/5_semestr/Analysis_of_Algorithms/lab_05/lab5/lab5_prog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ef1t/Desktop/Programming/5_semestr/Analysis_of_Algorithms/lab_05/lab5/lab5_prog/cmake-build-debug/CMakeFiles/lab5_prog.dir
