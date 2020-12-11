@@ -1,0 +1,29 @@
+\babel@toc {russian}{}
+\contentsline {section}{Введение}{3}%
+\contentsline {section}{\numberline {1}Аналитическая часть}{4}%
+\contentsline {subsection}{\numberline {1.1}Описание алгоритмов}{4}%
+\contentsline {subsection}{\numberline {1.2}Сортировка пузырьком}{4}%
+\contentsline {subsection}{\numberline {1.3}Сортировка выбором}{4}%
+\contentsline {subsection}{\numberline {1.4}Быстрая сортировка}{4}%
+\contentsline {subsection}{Вывод}{4}%
+\contentsline {section}{\numberline {2}Конструкторская часть}{5}%
+\contentsline {subsection}{\numberline {2.1}Разработка алгоритмов}{6}%
+\contentsline {subsection}{Вывод}{9}%
+\contentsline {section}{\numberline {3}Технологическая часть}{10}%
+\contentsline {subsection}{\numberline {3.1}Требования к программному обеспечению}{10}%
+\contentsline {subsection}{\numberline {3.2}Средства реализации}{10}%
+\contentsline {subsection}{\numberline {3.3}Листинг кода}{10}%
+\contentsline {subsection}{\numberline {3.4}Трудоемкость алгоритмов}{12}%
+\contentsline {subsubsection}{\numberline {3.4.1}Трудоёмкость алгоритма сортировки пузырьком}{12}%
+\contentsline {subsubsection}{\numberline {3.4.2}Трудоёмкость алгоритма сортировки выбором}{12}%
+\contentsline {subsubsection}{\numberline {3.4.3}Трудоёмкость алгоритма быстрой сортировки}{13}%
+\contentsline {subsection}{\numberline {3.5}Описание тестирования}{13}%
+\contentsline {subsection}{Вывод}{13}%
+\contentsline {section}{\numberline {4}Экспериментальная часть}{15}%
+\contentsline {subsection}{\numberline {4.1}Сравнительный анализ на основе замеров времени работы алгоритмов}{15}%
+\contentsline {subsubsection}{\numberline {4.1.1}Эксперимент 1}{15}%
+\contentsline {subsubsection}{\numberline {4.1.2}Эксперимент 2}{16}%
+\contentsline {subsubsection}{\numberline {4.1.3}Эксперимент 3}{17}%
+\contentsline {subsection}{\numberline {4.2}Сравнительный анализ на материале экспериментальных данных}{18}%
+\contentsline {subsection}{Вывод}{18}%
+\contentsline {section}{Заключение}{19}%
